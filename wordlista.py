@@ -1,4 +1,4 @@
-wordlist = {           "11111":"ABACATE",
+wordlist = {"11111":"ABACATE",
             "11112":"ABACAXI",
             "11113":"ABACO",
             "11114":"ABADE",
